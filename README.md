@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nandhini 
-- 👀 I’m interested in Backend WebDevelopment
-- 🌱 I’m currently learning Ruby On Rails
+- 👀 I’m interested in Full-stack WebDevelopment
+- 🌱 I’m currently learning React and Ruby On Rails
 - 📫 How to reach me nandhinimu27@gmail.com
 
 <!---
